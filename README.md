@@ -2,7 +2,7 @@
 
 A modern web application for saving and organizing bookmarks with automatic AI-powered summaries. Built with React, TypeScript, and Supabase.
 
-![Link_Saver](public/1..pnj)
+![LinkSaver](public/1..png)
 *Link Saver page with sign in/sign out options*
 
 ##  Screenshots
