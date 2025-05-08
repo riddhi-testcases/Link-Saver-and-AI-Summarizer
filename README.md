@@ -1,6 +1,6 @@
 # Link Saver + AI Summary - Bookmarks with a Brain 
 
-A modern web application for saving and organizing bookmarks with automatic AI-powered summaries. Built with React, TypeScript, and Supabase.
+A modern web application for saving and organizing bookmarks with automatic AI-powered summaries using Jina AI. Built with React, TypeScript and Supabase.
 
 ![LinkSaver](public/1..png)
 *Link Saver page with sign in/sign out options*
@@ -22,8 +22,9 @@ A modern web application for saving and organizing bookmarks with automatic AI-p
 
 - **Smart Bookmarking**
   - Automatic title and favicon extraction
-  - AI-powered content summarization
+  - AI-powered content summarization using Jina AI to fetch summaries
   - Tag-based organization
+  - Delete option for each bookmark
   - Clean, readable summaries with section highlighting
 
 - **Modern UI/UX**
@@ -51,7 +52,7 @@ A modern web application for saving and organizing bookmarks with automatic AI-p
 - **Backend & Database**
   - Supabase for authentication and data storage
   - PostgreSQL with Row Level Security
-  - Edge Functions for metadata extraction and AI summaries
+  - Jina AI to fetch summary
 
 - **Testing**
   - Vitest for unit testing
