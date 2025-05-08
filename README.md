@@ -2,7 +2,17 @@
 
 A modern web application for saving and organizing bookmarks with automatic AI-powered summaries. Built with React, TypeScript, and Supabase.
 
-![Link Saver Dashboard](https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Link Saver](public/1..pnj)
+*Link Saver page with sign in/sign out options*
+
+
+##  Screenshots
+
+![Homepage](public/2..png)
+*Dashboard showing bookmarks grid*
+
+![Dashboard](public/3..png)
+*Dark mode with feature highlights*
 
 ## Features
 
@@ -100,14 +110,6 @@ describe('BookmarkForm', () => {
   });
 });
 ```
-
-##  Screenshots
-
-![Homepage](https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Homepage with feature highlights*
-
-![Dashboard](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Dashboard showing bookmarks grid*
 
 ##  Future Improvements
 
